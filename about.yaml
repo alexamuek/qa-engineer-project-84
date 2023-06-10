@@ -1,0 +1,14 @@
+---
+name: Alex Agadzhanov # ваше имя
+job: QA Engineer
+level: junior
+email: alexamuek@gmail.com
+description: |
+  Тестирую Web2 и Web3 приложения
+skills: # список навыков в виде списка, напишите что-то свое
+  - функциональное тестирование
+  - unit - тесты
+  - написание багрепортов
+  - Linux
+  - английский язык 
+  - начальные знания python и js
