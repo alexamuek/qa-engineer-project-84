@@ -109,6 +109,7 @@
     Локализация сайта. Английский язык
   status: pass
 
+#в карточке есть слово Description
 - summary: |
     Локализация сайта. Переключение языка
   status: fail
@@ -169,4 +170,36 @@
 - summary: |
     Проверка верстки мобильной версии. iPad Mini
   status: fail
+
+- summary: |
+    Проверка работы сайта в разных браузерах. Chrome 114.0.5735.106 (Официальная сборка), (64 бит)
+  status: pass
+
+- summary: |
+    Проверка работы сайта в разных браузерах. Firefox 111.0.1 (64-разрядный)
+  status: pass
+
+- summary: |
+    Нагрузочное тестирование сайта
+  status: pass
+
+- summary: |
+    Проверка работы сайта. xiaomi redmi note 8 pro, chrome 114.0.5735.130
+  status: pass
+
+- summary: |
+    Проверка работы сайта. iPhone SE
+  status: pass
+
+- summary: |
+    Проверка архитектуры приложения - SPA приложение
+  status: pass
+
+- summary: |
+    Проверка архитектуры приложения - хранение корзины
+  status: pass
+
+- summary: |
+    Проверка архитектуры приложения - работа с корзиной
+  status: pass
 
